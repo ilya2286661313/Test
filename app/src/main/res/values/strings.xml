@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Test</string>
+
+    <string name="question_number">Вопрос №</string>
+
+    <string name="question_1">Why are you gay?</string>
+    <string name="question1_A">No u</string>
+    <string name="question1_B">Yor mom is</string>
+    <string name="question1_C">Yor dad is</string>
+    <string name="question1_D">I am gay *laughs*</string>
+    <string name="answer_1">No u</string>
+
+    <string name="question_2">Why?</string>
+    <string name="question2_A">...</string>
+    <string name="question2_B">Hm</string>
+    <string name="question2_C">Idk</string>
+    <string name="question2_D">Because</string>
+    <string name="answer_2">Because</string>
+
+    <string name="question_3">Why are you gay?</string>
+    <string name="question3_A">No u</string>
+    <string name="question3_B">Yor mom is</string>
+    <string name="question3_C">Yor dad is</string>
+    <string name="question3_D">I am gay *laughs*</string>
+    <string name="answer_3">VoIP</string>
+
+    <string name="question_4">Why are you gay?</string>
+    <string name="question4_A">No u</string>
+    <string name="question4_B">Yor mom is</string>
+    <string name="question4_C">Yor dad is</string>
+    <string name="question4_D">I am gay *laughs*</string>
+    <string name="answer_4">VoIP</string>
+
+    <string name="question_5">Why are you gay?</string>
+    <string name="question5_A">No u</string>
+    <string name="question5_B">Yor mom is</string>
+    <string name="question5_C">Yor dad is</string>
+    <string name="question5_D">I am gay *laughs*</string>
+    <string name="answer_5">VoIP</string>
+
+    <string name="question_6">Why are you gay?</string>
+    <string name="question6_A">No u</string>
+    <string name="question6_B">Yor mom is</string>
+    <string name="question6_C">Yor dad is</string>
+    <string name="question6_D">I am gay *laughs*</string>
+    <string name="answer_6">VoIP</string>
+
+    <string name="question_7">Why are you gay?</string>
+    <string name="question7_A">No u</string>
+    <string name="question7_B">Yor mom is</string>
+    <string name="question7_C">Yor dad is</string>
+    <string name="question7_D">I am gay *laughs*</string>
+    <string name="answer_7">VoIP</string>
+
+    <string name="question_8">Why are you gay?</string>
+    <string name="question8_A">No u</string>
+    <string name="question8_B">Yor mom is</string>
+    <string name="question8_C">Yor dad is</string>
+    <string name="question8_D">I am gay *laughs*</string>
+    <string name="answer_8">VoIP</string>
+</resources>
